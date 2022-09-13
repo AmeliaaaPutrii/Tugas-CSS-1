@@ -1,0 +1,39 @@
+#header img {
+    width: 200px;
+    height: 200px;
+}
+
+#header h1 {
+    color:red;
+}
+
+#content h2 {
+    color:red;
+    background-color: pink;
+}
+#content p {
+    color:green;
+    background-color: yellow;
+}
+
+#header h2 {
+    color:red;
+    background-color: pink;
+}
+
+.sidebar h2 {
+    color:red;
+    background-color: pink;
+}
+.sidebar p {
+    color:green;
+    background-color: yellow;
+}
+.sidebar img {
+    width: 100px;
+    height: 100px;
+}
+
+#footer p {
+    color: purple;
+}
